@@ -1,0 +1,18 @@
+{
+    "variants": {
+           "type=air": { "model": "runecrafting:altar_air"},
+		   "type=astral": { "model": "runecrafting:altar_astral"},
+		   "type=blood": { "model": "runecrafting:altar_blood"},
+		   "type=body": { "model": "runecrafting:altar_body"},
+		   "type=chaos": { "model": "runecrafting:altar_chaos"},
+		   "type=cosmic": { "model": "runecrafting:altar_cosmic"},
+		   "type=death": { "model": "runecrafting:altar_death"},
+		   "type=earth": { "model": "runecrafting:altar_earth"},
+		   "type=fire": { "model": "runecrafting:altar_fire"},
+		   "type=law": { "model": "runecrafting:altar_law"},
+		   "type=mind": { "model": "runecrafting:altar_mind"},
+		   "type=nature": { "model": "runecrafting:altar_nature"},
+		   "type=soul": { "model": "runecrafting:altar_soul"},
+		   "type=water": { "model": "runecrafting:altar_water"}
+	}
+}

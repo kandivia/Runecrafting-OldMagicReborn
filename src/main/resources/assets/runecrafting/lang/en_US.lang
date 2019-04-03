@@ -1,0 +1,102 @@
+itemGroup.runecrafting=Runecrafting
+
+tile.essence_ore.name=Rune Essence
+
+item.essence_rune.name=Rune Essence
+item.essence_pure.name=Pure Essence
+
+item.ball_of_wool.name=Ball of Wool
+item.spellbook.name=Spellbook
+
+item.staff_normal.name=Staff
+item.staff_air.name=Staff of Air
+item.staff_water.name=Staff of Water
+item.staff_earth.name=Staff of Earth
+item.staff_fire.name=Staff of Fire
+
+item.rune_air.name=Air Rune
+item.rune_astral.name=Astral Rune
+item.rune_blood.name=Blood Rune
+item.rune_body.name=Body Rune
+item.rune_chaos.name=Chaos Rune
+item.rune_cosmic.name=Cosmic Rune
+item.rune_death.name=Death Rune
+item.rune_dust.name=Dust Rune
+item.rune_earth.name=Earth Rune
+item.rune_fire.name=Fire Rune
+item.rune_lava.name=Lava Rune
+item.rune_law.name=Law Rune
+item.rune_mind.name=Mind Rune
+item.rune_mist.name=Mist Rune
+item.rune_mud.name=Mud Rune
+item.rune_nature.name=Nature Rune
+item.rune_smoke.name=Smoke Rune
+item.rune_soul.name=Soul Rune
+item.rune_steam.name=Steam Rune
+item.rune_water.name=Water Rune
+
+item.talisman_air.name=Air Talisman
+item.talisman_astral.name=Astral Talisman
+item.talisman_blood.name=Blood Talisman
+item.talisman_body.name=Body Talisman
+item.talisman_chaos.name=Chaos Talisman
+item.talisman_cosmic.name=Cosmic Talisman
+item.talisman_death.name=Death Talisman
+item.talisman_earth.name=Earth Talisman
+item.talisman_fire.name=Fire Talisman
+item.talisman_law.name=Law Talisman
+item.talisman_mind.name=Mind Talisman
+item.talisman_nature.name=Nature Talisman
+item.talisman_soul.name=Soul Talisman
+item.talisman_water.name=Water Talisman
+
+item.tiara.name=Tiara
+item.tiara_air.name=Air Tiara
+item.tiara_astral.name=Astral Tiara
+item.tiara_blood.name=Blood Tiara
+item.tiara_body.name=Body Tiara
+item.tiara_chaos.name=Chaos Tiara
+item.tiara_cosmic.name=Cosmic Tiara
+item.tiara_death.name=Death Tiara
+item.tiara_earth.name=Earth Tiara
+item.tiara_fire.name=Fire Tiara
+item.tiara_law.name=Law Tiara
+item.tiara_mind.name=Mind Tiara
+item.tiara_nature.name=Nature Tiara
+item.tiara_soul.name=Soul Tiara
+item.tiara_water.name=Water Tiara
+
+item.wizard_cloth_hat.name=Wizard Hat
+item.wizard_cloth_robe.name=Wizard Robe
+item.wizard_cloth_skirt.name=Wizard Skirt
+item.wizard_cloth_boots.name=Wizard Boots
+
+tile.altar.air.name=Air Altar
+tile.altar.astral.name=Astral Altar
+tile.altar.blood.name=Blood Altar
+tile.altar.body.name=Body Altar
+tile.altar.chaos.name=Chaos Altar
+tile.altar.cosmic.name=Cosmic Altar
+tile.altar.death.name=Death Altar
+tile.altar.earth.name=Earth Altar
+tile.altar.fire.name=Fire Altar
+tile.altar.law.name=Law Altar
+tile.altar.mind.name=Mind Altar
+tile.altar.nature.name=Nature Altar
+tile.altar.soul.name=Soul Altar
+tile.altar.water.name=Water Altar
+
+tile.altar_portal.air.name=Air Altar Portal
+tile.altar_portal.astral.name=Astral Altar Portal
+tile.altar_portal.blood.name=Blood Altar Portal
+tile.altar_portal.body.name=Body Altar Portal
+tile.altar_portal.chaos.name=Chaos Altar Portal
+tile.altar_portal.cosmic.name=Cosmic Altar Portal
+tile.altar_portal.death.name=Death Altar Portal
+tile.altar_portal.earth.name=Earth Altar Portal
+tile.altar_portal.fire.name=Fire Altar Portal
+tile.altar_portal.law.name=Law Altar Portal
+tile.altar_portal.mind.name=Mind Altar Portal
+tile.altar_portal.nature.name=Nature Altar Portal
+tile.altar_portal.soul.name=Soul Altar Portal
+tile.altar_portal.water.name=Water Altar Portal

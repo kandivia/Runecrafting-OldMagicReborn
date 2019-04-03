@@ -1,0 +1,16 @@
+[
+{
+  "modid": "runecrafting",
+  "name": "Runecrafting",
+  "description": "Bringing Old Magic To Minecraft!",
+  "version": "$version",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["kandivia"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+	"ambientocclusion": false,
+    "textures": {
+        "side": "runecrafting:blocks/altar_portal_exit"
+    }
+}
